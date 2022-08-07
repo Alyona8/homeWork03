@@ -89,6 +89,7 @@ public class Main {
         }
         System.out.println("Мы готовы выдать вам кредитную карту с лимитом " + limit + " рублей.");
 
+
         //Задание 7
         int age1 = 25;
         int salary1 = 60_000;
